@@ -1,0 +1,11 @@
+commit 6a9523863230f058308a36d2a0ca455169413f8c (HEAD -> main)
+Author: shiokoshi-miharu <shiokoshi.miharu.1207@gmail.com>
+Date:   Sun Sep 15 12:28:15 2024 +0900
+
+    日本語訳を追記
+
+commit ff02fc259157496e1456771abc33db2fd7029e08
+Author: shiokoshi-miharu <shiokoshi.miharu.1207@gmail.com>
+Date:   Sun Sep 15 12:27:01 2024 +0900
+
+    hello_world.txtを追加
